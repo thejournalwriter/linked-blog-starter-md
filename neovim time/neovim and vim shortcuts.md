@@ -2,6 +2,6 @@
 
 `vim {file name.ext}` to open a file in vim
 
-
+**Commands
 `:q` to exit vim
 
