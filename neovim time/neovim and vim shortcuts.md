@@ -4,4 +4,4 @@
 
 **Commands:**
 `:q` to exit vim
-`:w` to write file (save th)
+`:w` to write file (save file)
