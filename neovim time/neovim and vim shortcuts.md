@@ -50,7 +50,8 @@
 3) Disable line number
 	- `:set nonumber`
 4) `:badd filename.ext` to add buffer without switching to it
-5) Open vim with several files at the tiem
+5) Open vim with several files at the same time
+6) 
 
 #### Configure Vim
 - `vim .vimrc`
