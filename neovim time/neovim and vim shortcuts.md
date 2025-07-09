@@ -20,7 +20,7 @@
 - `:bd` to delete current buffer
 - `:enew` to create an empty buffer
 - `:split filename.ext` to create a new split with file (can be replaced with `:sp`)
-- `:vsplit` or `:vsp` to create vertical split
+- `:vsplit` or `:vsp` or `:vs` to create vertical split
 - `Ctrl + W(2x)` to move to next split
 #### While in normal mode
 - `Shift + A` to enter insert mode & move cursor to end of current line
