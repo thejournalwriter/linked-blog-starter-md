@@ -30,7 +30,7 @@
 - `: {line_number}` to move cursor to said line
 
 #### Visual mode
-- Position the cursor, then press `V` to begi
+- Position the cursor, then press `V` to begin se
 ---
 
 vim progress:
