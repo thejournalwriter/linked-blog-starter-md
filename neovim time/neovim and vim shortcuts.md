@@ -11,7 +11,7 @@
 #### Vim basics
 - `:q` to exit vim
 - `:w` to write file (for saving)
-- `:r {filename.ext}` to 
+- `:r {filename.ext}` to insert content of 
 - `U` to undo changes
 - `0` to move cursor to beginning of line
 - `$ (Shift + 4)` to move cursor to end of line w/o switching to insert mode
