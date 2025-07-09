@@ -20,7 +20,7 @@
 - `:bn` to move to next buffer
 - `:bd` to delete current buffer
 - `:enew` to create an empty buffer
-- `:badd filename.ext` to creat
+- `:badd filename.ext` to create
 - `:split filename.ext` to create a new split with file (can be replaced with `:sp`)
 - `:vsplit` or `:vsp` or `:vs` to create vertical split
 - `Ctrl + W(2x)` to move to next split
