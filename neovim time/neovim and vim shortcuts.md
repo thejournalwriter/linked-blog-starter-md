@@ -32,7 +32,6 @@
 
 #### Visual mode
 - Position the cursor, then press `V` to begin selecting text
-- Move cursor around to select text
 - Press `Y` to yank (copy), will also exit visual mode
 - 
 
