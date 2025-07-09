@@ -16,7 +16,7 @@
 - `0` to move cursor to beginning of line
 - `$` to move cursor to end of line w/o switching to insert mode
 
-#### While in nor
+#### While in normal mode
 - `X` to delete a character
 - `D` twice in quick succession to delete an entire line
 
