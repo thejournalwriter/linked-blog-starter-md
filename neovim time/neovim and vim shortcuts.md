@@ -14,6 +14,7 @@
 - `:w` to write file (for saving)
 - `Shift + A` to enter insert mode & move cursor to end of current line
 - `U` to undo changes
+- `0` to 
 
 ---
 
