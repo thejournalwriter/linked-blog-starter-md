@@ -28,12 +28,13 @@
 - `0` to move cursor to beginning of line
 - `$ (Shift + 4)` to move cursor to end of line w/o switching to insert mode
 - `: {line_number}` to move cursor to said line
+- Press `P` to put (paste), can also be used in normal mode
 
 #### Visual mode
 - Position the cursor, then press `V` to begin selecting text
 - Move cursor around to select text
 - Press `Y` to yank (copy), will also exit visual mode
-- Press `P` to put (paste), can also be used in normal mode
+
 ---
 
 vim progress:
