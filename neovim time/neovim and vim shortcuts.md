@@ -51,7 +51,7 @@
 
 #### Configure Vim
 - `vim .vimrc`
-- `"` to comment
+- `"` at beginning of line to comment
 
 
 ---
