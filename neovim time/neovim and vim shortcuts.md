@@ -30,7 +30,7 @@
 - `: {line_number}` to move cursor to said line
 
 #### Visual mode
-- 
+- Press `V` at 
 ---
 
 vim progress:
