@@ -33,7 +33,7 @@
 #### Visual mode
 - Position the cursor, then press `V` to begin selecting text
 - Press `Y` to yank (copy), will also exit visual mode
-- Switch to command mode while having selected text to process it (like alphabetisi)
+- Switch to command mode while having selected text to process it (like alphabetising)
 
 ---
 
