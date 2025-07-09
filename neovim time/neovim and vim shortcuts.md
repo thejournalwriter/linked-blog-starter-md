@@ -2,7 +2,7 @@
 
 `vim` to make a new vim instance
 `vim filename.ext` to open a file in vim
-`vim +`
+`vim +{line_number} filenameext`
 
 * * *
 
