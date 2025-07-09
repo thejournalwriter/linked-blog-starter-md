@@ -17,7 +17,7 @@
 - `:e filename.ext` to edit specified file in a new buffer
 - `:bp` to move to previous buffer
 - `:bn` to move to next buffer
-- `: {line_number}` to move 
+- `: {line_number}` to move to edit mode 
 #### While in normal mode
 - `Shift + A` to enter insert mode & move cursor to end of current line
 - `X` to delete a character
