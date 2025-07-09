@@ -33,7 +33,7 @@
 - Position the cursor, then press `V` to begin selecting text
 - Move cursor around to select text
 - Press `Y` to yank (copy), will also exit visual mode
-- Press `P` to put (paste)
+- Press `P` to put (paste), can also be used in normal mode
 ---
 
 vim progress:
