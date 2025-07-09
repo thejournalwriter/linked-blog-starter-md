@@ -16,7 +16,7 @@
 - `0` to move cursor to beginning of line
 - `$` to move cursor to end of line w/o switching to insert mode
 - `X` to delete a character while in normal mode
-- 
+- `DD`
 
 ---
 
