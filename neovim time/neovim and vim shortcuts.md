@@ -31,7 +31,7 @@
 
 #### Visual mode
 - Position the cursor, then press `V` to begin selecting text
-- Move cu
+- Move cursor around to sel
 ---
 
 vim progress:
