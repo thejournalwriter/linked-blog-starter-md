@@ -7,6 +7,7 @@
 
 > [!info] Pro tip
 > Commands can be combined to perform in order
+
 #### Vim basics
 - `:q` to exit vim
 - `:w` to write file (for saving)
