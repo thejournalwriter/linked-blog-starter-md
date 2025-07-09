@@ -37,7 +37,7 @@
 
 #### Random tips
 1) Find and replace
-	- `%s/{text_find}`
+	- `%s/{text_find}/{text}`
 
 ---
 
