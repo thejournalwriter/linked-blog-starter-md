@@ -2,6 +2,9 @@
 
 `vim {file name.ext}` to open a file in vim
 
+***
+
+
 **Commands:**
 pro tip
 
