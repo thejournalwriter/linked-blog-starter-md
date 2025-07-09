@@ -7,7 +7,7 @@
 
 > [!tip] Pro tip
 > - Commands can be combined to perform in order (like `:wq` to save and quit)
-> - You can perform Linux commands while in command mode in vim with `:! {your_command_here}` for some reason
+> - You can perform Linux commands while in command mode in vim with `:! your_command_here` for some reason
 
 #### Vim basics
 - `:q` to exit vim
