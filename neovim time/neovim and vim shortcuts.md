@@ -17,7 +17,7 @@
 - `$` to move cursor to end of line w/o switching to insert mode
 
 #### Buffer
-- It's like a session or new file in a text ed
+- It's like a session or new file in a text editor
 
 ---
 
