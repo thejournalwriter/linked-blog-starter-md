@@ -17,6 +17,7 @@
 - `:e filename.ext` to edit specified file in a new buffer
 - `:bp` to move to previous buffer
 - `:bn` to move to next buffer
+
 - `0` to move cursor to beginning of line
 - `$ (Shift + 4)` to move cursor to end of line w/o switching to insert mode
 
