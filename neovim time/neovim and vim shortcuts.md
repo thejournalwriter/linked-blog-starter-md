@@ -1,7 +1,7 @@
 **Modes:** normal mode, `:` to use command mode, `I` to use insert mode(typing is all in this mode)
 
 `vim` to make a new vim instance
-`vim {file name.ext}` to open a file in vim
+`vim {filename.ext}` to open a file in vim
 
 * * *
 
@@ -11,7 +11,7 @@
 #### Vim basics
 - `:q` to exit vim
 - `:w` to write file (for saving)
-- `:r {file name.ext}` to 
+- `:r {filename.ext}` to 
 - `U` to undo changes
 - `0` to move cursor to beginning of line
 - `$ (Shift + 4)` to move cursor to end of line w/o switching to insert mode
