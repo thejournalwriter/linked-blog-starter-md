@@ -51,7 +51,7 @@
 
 #### Configure Vim
 - `vim .vimrc`
-- 
+- `"` to comment
 
 
 ---
