@@ -19,7 +19,7 @@
 - `:bn` to move to next buffer
 - `:bd` to delete current buffer
 - `:enew` to create an empty buffer
-- `:sp filename.ext` to create a new split with file
+- `:split filename.ext` to create a new split with file (or `:)
 - `Ctrl + W(2x)` to move to next split
 #### While in normal mode
 - `Shift + A` to enter insert mode & move cursor to end of current line
