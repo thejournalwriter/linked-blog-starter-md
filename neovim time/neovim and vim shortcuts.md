@@ -25,7 +25,7 @@
 - `X` to delete a character
 - `D` twice in quick succession to delete an entire line
 - `H, J, K, L` to move cursor left, down, up, right (just helps with touch typers)
-- - `U` to undo changes
+- `U` to undo changes
 
 ---
 
