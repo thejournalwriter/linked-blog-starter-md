@@ -49,6 +49,8 @@
 3) Disable line number
 	- `:set nonumber`
 
+#### Configure Vim
+
 
 ---
 
