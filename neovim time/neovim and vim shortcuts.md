@@ -18,4 +18,4 @@ vim progress:
 - [x] save file in vim
 
 
-[^1
+[^1]
