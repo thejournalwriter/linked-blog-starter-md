@@ -46,7 +46,8 @@
 	- `%s/{text_find}/{text_replace}/g`
 2) Enable line numbers
 	- `:set number`
-	
+3) Disable line number
+4) 
 
 ---
 
