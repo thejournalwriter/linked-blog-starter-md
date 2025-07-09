@@ -3,6 +3,6 @@
 `vim {file name.ext}` to open a file in vim
 
 **Commands:**
-[!nfo]
+[!info] 
 `:q` to exit vim
 `:w` to write file (for saving)
