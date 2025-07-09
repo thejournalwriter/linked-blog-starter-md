@@ -15,6 +15,7 @@
 - `U` to undo changes
 - `0` to move cursor to beginning of line
 - `$` to move cursor to end of line w/o switching to insert mode
+- 
 
 #### Buffer
 - It's like a session or new file in a text editor
