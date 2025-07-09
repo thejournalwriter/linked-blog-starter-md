@@ -1,6 +1,6 @@
 **Modes:** normal mode, `:` to use command mode, `I` to use insert mode(typing is all in this mode)
 
-`vim` to make a 
+`vim` to make a new vim instance
 `vim {file name.ext}` to open a file in vim
 
 * * *
