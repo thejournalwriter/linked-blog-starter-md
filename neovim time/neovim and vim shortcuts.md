@@ -10,7 +10,7 @@
 > - You can perform Linux commands while in command mode in vim with
 >   `:! your_command_here` for some reason
 
-#### Ins
+#### While 
 - `:q` to exit vim
 - `:w` to write file (for saving)
 - `:r filename.ext` to insert content of specified file into current buffer
