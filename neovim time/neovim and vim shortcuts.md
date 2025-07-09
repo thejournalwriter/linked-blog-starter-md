@@ -29,6 +29,7 @@
 - `$ (Shift + 4)` to move cursor to end of line w/o switching to insert mode
 - `: {line_number}` to move cursor to said line
 - Press `P` to put (paste) after selecting in visual mode
+- `g`
 
 #### Visual mode
 - Position the cursor, then press `V` to begin selecting text
