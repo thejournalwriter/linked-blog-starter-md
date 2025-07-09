@@ -9,4 +9,5 @@ pro tip
 `:w` to write file (for saving)
 
 vim progress:
-- [x] 
+- [x] exit vim
+- [ ] 
