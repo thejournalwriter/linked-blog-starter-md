@@ -30,7 +30,8 @@
 - `: {line_number}` to move cursor to said line
 
 #### Visual mode
-- Position the cursor, then press `V` to begin selecti
+- Position the cursor, then press `V` to begin selecting text
+- Move cu
 ---
 
 vim progress:
