@@ -15,7 +15,7 @@
 - `:w` to write file (for saving)
 - `:r filename.ext` to insert content of specified file into current buffer
 - `:e filename.ext` to edit specified file in a new buffer
-- `:bp` to move to prev
+- `:bp` to move to previous
 - `U` to undo changes
 - `0` to move cursor to beginning of line
 - `$ (Shift + 4)` to move cursor to end of line w/o switching to insert mode
