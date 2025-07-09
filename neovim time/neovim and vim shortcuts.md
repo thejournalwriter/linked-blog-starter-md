@@ -18,6 +18,7 @@
 
 #### Buffer
 - It's like a session or new file in a text editor
+- 
 
 ---
 
