@@ -29,7 +29,7 @@
 - `$ (Shift + 4)` to move cursor to end of line w/o switching to insert mode
 - `: {line_number}` to move cursor to said line
 - Press `P` to put (paste) after selecting in visual mode
-- `g` twice in quick succession to go to beginning of file
+- `G` twice in quick succession to go to beginning of file
 - `Shift + G`
 
 #### Visual mode
