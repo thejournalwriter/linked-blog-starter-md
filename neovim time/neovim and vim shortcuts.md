@@ -19,6 +19,7 @@
 #### While in normal mode
 - `X` to delete a character
 - `D` twice in quick succession to delete an entire line
+- 
 
 ---
 
