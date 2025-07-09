@@ -29,7 +29,7 @@
 - `$ (Shift + 4)` to move cursor to end of line w/o switching to insert mode
 - `: {line_number}` to move cursor to said line
 
-#### While 
+#### While in visual mode
 ---
 
 vim progress:
