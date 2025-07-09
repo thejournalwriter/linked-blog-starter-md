@@ -35,6 +35,9 @@
 - Press `Y` to yank (copy), will also exit visual mode
 - Switch to command mode while having selected text to process it (like alphabetizing with `sort ui`)
 
+#### Random tips
+
+
 ---
 
 vim progress:
