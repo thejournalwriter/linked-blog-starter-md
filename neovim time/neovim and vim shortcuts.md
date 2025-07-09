@@ -12,8 +12,7 @@
 
 `:q` to exit vim
 `:w` to write file (for saving)
-`Shift + A` to enter insert mode & move cursor to end of current line
-
+`Shift + A` to enter insert mode & move cursor to end of current linez
 ---
 
 vim progress:
