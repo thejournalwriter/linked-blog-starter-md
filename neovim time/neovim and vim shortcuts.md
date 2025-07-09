@@ -17,7 +17,7 @@
 - `:e filename.ext` to edit specified file in a new buffer
 - `:bp` to move to previous buffer
 - `:bn` to move to next buffer
-- `:enew` to create an empty buf
+- `:enew` to create an empty buffer
 #### While in normal mode
 - `Shift + A` to enter insert mode & move cursor to end of current line
 - `X` to delete a character
