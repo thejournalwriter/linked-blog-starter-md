@@ -50,6 +50,7 @@
 	- `:set nonumber`
 
 #### Configure Vim
+- `vim .vimrrc`
 
 
 ---
