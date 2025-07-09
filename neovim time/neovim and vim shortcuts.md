@@ -5,7 +5,6 @@
 
 * * *
 
-**Commands:**
 > [!info] pro tip
 > Commands can be combined to perform in order
 
