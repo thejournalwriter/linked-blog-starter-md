@@ -10,4 +10,4 @@ pro tip
 
 vim progress:
 - [x] exit vim
-- [ ] 
+- [ ] edit in vim
