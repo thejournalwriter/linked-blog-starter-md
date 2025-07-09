@@ -51,7 +51,8 @@
 	- `:set nonumber`
 4) `:badd filename.ext` to add buffer without switching to it
 5) Open vim with several files at the same time
-	- `vim -o file1.ext file2.ext`
+	- `vim -o file1.ext file2.ext` for split
+	- 
 
 #### Configure Vim
 - `vim .vimrc`
