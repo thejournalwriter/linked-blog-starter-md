@@ -5,7 +5,7 @@
 
 * * *
 
-> [!info] pro tip
+> [!info] Pro tip
 > Commands can be combined to perform in order
 
 #### Vim basics
