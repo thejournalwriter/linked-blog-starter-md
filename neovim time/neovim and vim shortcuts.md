@@ -10,6 +10,8 @@ pro tip
 `:q` to exit vim
 `:w` to write file (for saving)
 
+---
+
 vim progress:
 - [x] exit vim
 - [x] edit in vim
