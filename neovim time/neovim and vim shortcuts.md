@@ -11,4 +11,5 @@ pro tip
 vim progress:
 - [x] exit vim
 - [x] edit in vim
-- [ ] save file in vim
+- [x] save file in vim
+- [ ] 
