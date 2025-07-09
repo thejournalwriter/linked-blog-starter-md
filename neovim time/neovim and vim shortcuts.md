@@ -7,3 +7,5 @@ pro tip
 
 `:q` to exit vim
 `:w` to write file (for saving)
+
+vim 
