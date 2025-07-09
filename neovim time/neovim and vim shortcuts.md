@@ -19,7 +19,7 @@
 #### While in normal mode
 - `X` to delete a character
 - `D` twice in quick succession to delete an entire line
-- `H, J, K, L` to move cursor left, down, up, right (just helps)
+- `H, J, K, L` to move cursor left, down, up, right (just helps with tpuch)
 
 ---
 
