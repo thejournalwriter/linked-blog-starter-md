@@ -47,7 +47,8 @@
 2) Enable line numbers
 	- `:set number`
 3) Disable line number
-	- `:set nonumne`
+	- `:set nonumber`
+
 
 ---
 
