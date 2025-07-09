@@ -49,7 +49,7 @@
 	- `:set number`
 3) Disable line number
 	- `:set nonumber`
-4) - `:badd filename.ext` to add buffer without switching to it
+4) `:badd filename.ext` to add buffer without switching to it
 
 #### Configure Vim
 - `vim .vimrc`
