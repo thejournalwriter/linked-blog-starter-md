@@ -1,1 +1,1 @@
-Modes: normal mode, command mode, `I` to use insert mode
+Modes: normal mode, `` command mode, `I` to use insert mode
