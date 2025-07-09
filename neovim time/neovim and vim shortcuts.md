@@ -24,6 +24,7 @@
 - `Ctrl + W(2x)` to move to next split
 #### While in normal mode
 - `Shift + A` to enter insert mode & move cursor to end of current line
+- `Shift + W` to move between characters
 - `X` to delete a character
 - `D` twice in quick succession to delete an entire line
 - `H, J, K, L` to move cursor left, down, up, right (just helps with touch typers)
