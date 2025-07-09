@@ -27,7 +27,7 @@
 - `Shift + A` to enter insert mode & move cursor to end of current line
 - `Shift + W` to move between characters
 - `X` to delete a character
-- `D` twice in quick succession to delete an entire line
+- `D` twice in quick succession to delete an entire line and copy into paste buffer
 - `H, J, K, L` to move cursor left, down, up, right (just helps with touch typers)
 - `U` to undo changes
 - `0` to move cursor to beginning of line
