@@ -36,7 +36,8 @@
 - Switch to command mode while having selected text to process it (like alphabetizing with `sort ui`)
 
 #### Random tips
-
+1) Find and replace
+2) 
 
 ---
 
