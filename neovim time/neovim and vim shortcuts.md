@@ -17,7 +17,7 @@
 - `$` to move cursor to end of line w/o switching to insert mode
 
 #### Vim expansion
-
+- 
 
 ---
 
