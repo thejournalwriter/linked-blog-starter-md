@@ -6,7 +6,8 @@
 
 **Commands:**
 > [!info] pro tip
-> 
+> Commands can be combined to perform in order
+
 
 `:q` to exit vim
 `:w` to write file (for saving)
