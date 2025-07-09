@@ -19,7 +19,7 @@
 - `:bn` to move to next buffer
 - `:bd` to delete current buffer
 - `:enew` to create an empty buffer
-
+- `:split` to create a split with file
 #### While in normal mode
 - `Shift + A` to enter insert mode & move cursor to end of current line
 - `X` to delete a character
