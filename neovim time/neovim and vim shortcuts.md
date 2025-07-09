@@ -30,7 +30,7 @@
 - `: {line_number}` to move cursor to said line
 - Press `P` to put (paste) after selecting in visual mode
 - `G` twice in quick succession to go to beginning of file
-- `Shift + G` to go to 
+- `Shift + G` to go to end of file
 
 #### Visual mode
 - Position the cursor, then press `V` to begin selecting text
