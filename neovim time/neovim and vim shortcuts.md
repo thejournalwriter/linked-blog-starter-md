@@ -1,4 +1,4 @@
-**Modes:** normal mode, `:` to use command mode, `I` to use insert mode(typing is all in this mode), `V` for 
+**Modes:** normal mode, `:` to use command mode, `I` to use insert mode(typing is all in this mode), `V` to use visual mode
 
 `vim` to make a new vim instance
 `vim filename.ext` to open a file in vim
