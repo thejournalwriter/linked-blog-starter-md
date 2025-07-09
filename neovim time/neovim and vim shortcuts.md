@@ -6,7 +6,8 @@
 * * *
 
 > [!info] Pro tip
-> Commands can be combined to perform in order (like `:wq` to save and quit)
+> - Commands can be combined to perform in order (like `:wq` to save and quit)
+> - 
 
 #### Vim basics
 - `:q` to exit vim
