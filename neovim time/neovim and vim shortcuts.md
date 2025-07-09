@@ -32,7 +32,7 @@
 #### Visual mode
 - Position the cursor, then press `V` to begin selecting text
 - Move cursor around to select text
-- Pre
+- Press `Y` to yank
 ---
 
 vim progress:
