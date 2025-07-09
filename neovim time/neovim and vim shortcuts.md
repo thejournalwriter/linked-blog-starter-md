@@ -1,3 +1,3 @@
 **Modes:** normal mode, `:` to use command mode, `I` to use insert mode(typing is all in this mode)
 
-`vim {file name`
+`vim {file name.ext}`
