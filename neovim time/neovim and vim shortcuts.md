@@ -6,7 +6,7 @@
 * * *
 
 > [!info] Pro tip
-> Commands can be combined to perform in order
+> Commands can be combined to perform in order (like `)
 
 #### Vim basics
 - `:q` to exit vim
