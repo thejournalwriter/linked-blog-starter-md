@@ -25,4 +25,5 @@ Cho F = {CD -> H, B -> EG, E -> AD}, chứng minh BC -> H
 Cho F = {AB -> C, B -> D, CD -> E, CE -> GH}, chứng minh AB -> GH
 > [!info] answer
 > AB -> C => AB -> BC
-> B -> D => BC 
+> B -> D => BC -> CD
+> CD ->< 
