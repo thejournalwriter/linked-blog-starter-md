@@ -4,10 +4,10 @@
 Cho F = {A -> B, BC -> D}, chứng minh AC -> D
 
 > [!info] answer
-> - Ta có:
+>
 > 	+ BC -> D ==> B -> D, C -> D
 > 	+ A -> D, C -> D ==> AC -> D
 
 ###### Bài 2:
 Cho F = {A -> BC, AC -> D}, chứng minh AC -> BCD
-> [!ì]
+> [!info]
