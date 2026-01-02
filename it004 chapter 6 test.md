@@ -3,6 +3,6 @@
 ###### Bài 1:
 Cho F = {A -> B, BC -> D}, chứng minh AC -> D
 
-> [!info] 
-> Contents
+> [!info] answer
+> 
 
