@@ -22,4 +22,4 @@ Cho F = {CD -> H, B -> EG, E -> AD}, chứng minh BC -> H
 > + B -> D, CD -> H => BC -> H
 
 ###### Bài 4:
-Cho F = {AB -> C, B -> D, CD -> E, CE -> GH}, chứng minh AC -> GH
+Cho F = {AB -> C, B -> D, CD -> E, CE -> GH}, chứng minh AB -> GH
