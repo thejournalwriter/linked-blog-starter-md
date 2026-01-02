@@ -5,7 +5,7 @@ Cho F = {A -> B, BC -> D}, chứng minh AC -> D
 
 > [!info] answer
 >
-> 	+ BC -> D ==> B -> D, C -> D
+>	+ BC -> D ==> B -> D, C -> D
 > 	+ A -> D, C -> D ==> AC -> D
 
 ###### Bài 2:
