@@ -12,4 +12,4 @@ Cho F = {A -> BC, AC -> D}, chứng minh AC -> BCD
 > [!info] answer
 > + AC -> D ==> A -> D, C -> D
 > + A -> BC, A -> D ==> A -> BCD
-> + A -> BC, A -> D ==> A -> BCD
+> + A -> BC, C -> D ==> A -> BD
