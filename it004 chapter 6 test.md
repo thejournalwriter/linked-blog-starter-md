@@ -28,4 +28,4 @@ Cho F = {AB -> C, B -> D, CD -> E, CE -> GH}, chứng minh AB -> GH
 > + B -> D => BC -> CD
 > + CD -> E => CD -> CE
 > + AB -> BC, BC -> CD, CD -> CE => AB -> CE
-> + AB -> CE, AB -> GH => AB -
+> + AB -> CE, CE -> GH => AB -> GH
