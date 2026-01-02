@@ -12,3 +12,6 @@ Cho F = {A -> BC, AC -> D}, chứng minh AC -> BCD
 > [!info] answer
 > + A -> BC => AC -> BC
 > + AC -> D, AC -> BC => AC -> BCD
+
+###### Bài 3:
+Cho F = {A -> BC, AC -> D}, chứng minh AC -> BCD
