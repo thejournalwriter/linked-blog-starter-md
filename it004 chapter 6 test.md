@@ -13,3 +13,4 @@ Cho F = {A -> BC, AC -> D}, chứng minh AC -> BCD
 > + AC -> D ==> A -> D, C -> D
 > + A -> BC, A -> D ==> A -> BCD
 > + A -> BC, C -> D ==> A -> BD
+> + A -> BD, AC -> D ==> 
