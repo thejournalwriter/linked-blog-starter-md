@@ -1,1 +1,2 @@
-waterfall model: prob the least 
+waterfall model: prob the least useful
+only works 
